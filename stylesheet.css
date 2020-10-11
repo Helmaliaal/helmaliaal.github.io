@@ -48,7 +48,7 @@ a {
 
 .banner {
 	height:100vh;
-	background-image:url("https://github.com/Helmaliaal/helmaliaal.github.io/blob/master/1.jpg");
+	background-image:url("1.jpg");
 	background-size:cover;
 	position: relative;
 	display: flex;
